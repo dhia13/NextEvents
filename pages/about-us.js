@@ -37,7 +37,7 @@ const AboutUsPage = () => {
         <li>
           <h3>About the dev </h3>
           <p>
-            Made by Sahhar Dhia Eddine a fullstack dev don't hesitate to contact
+            Made by Sahhar Dhia Eddine a fullstack dev dont hesitate to contact
             me
             <br />
             <a href="https://portfolio-tau-five-71.vercel.app/">
