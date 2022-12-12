@@ -1,3 +1,4 @@
+/* eslint-disable-line */
 const AboutUsPage = () => {
   return (
     <div>
