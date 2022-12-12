@@ -33,7 +33,7 @@ const AboutUsPage = () => {
             aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in
           </p>
-        </li>{" "}
+        </li>
         <li>
           <h3>About the dev </h3>
           <p>
