@@ -41,9 +41,7 @@ const AboutUsPage = () => {
             Made by Sahhar Dhia Eddine a fullstack dev dont hesitate to contact
             me
           </p>
-          <a href="https://portfolio-tau-five-71.vercel.app/">
-            <h4>Protfolio</h4>
-          </a>
+          <a href="https://portfolio-tau-five-71.vercel.app/">Protfolio</a>
         </li>
       </ul>
     </div>
