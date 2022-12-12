@@ -39,11 +39,10 @@ const AboutUsPage = () => {
           <p>
             Made by Sahhar Dhia Eddine a fullstack dev dont hesitate to contact
             me
-            <br />
-            <a href="https://portfolio-tau-five-71.vercel.app/">
-              <h4>Protfolio</h4>
-            </a>
           </p>
+          <a href="https://portfolio-tau-five-71.vercel.app/">
+            <h4>Protfolio</h4>
+          </a>
         </li>
       </ul>
     </div>
